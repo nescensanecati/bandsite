@@ -11,4 +11,4 @@ The site was also developed to be reactive and to change the format at three siz
 - more than 1280 pixels > then use desktop formatting
 
 If you want to see this project deployed and in action, please go to: 
-https://stupendous-brioche-decad6.netlify.app/
+https://bandsite.alex-diaz.info/
